@@ -1,0 +1,15 @@
+What are user agent styles? Does it affect cross browser applications? What is the way out?
+
+CSS budgets for default formatting of documents by the user agent style sheet concept, a cornerstone of the cascade. It means that a web browser doesn’t just present a line of text when it’s fed with an HTML document that has no styling information attached, but instead serves it using minimal formatting.
+Different browsers set different default CSS rules,
+Users/developers css overrides these default styles rest are still applied eith default user agent styles.
+
+It does affect the cross browser applications, the same page will look different in different browsers.
+
+To avoid this, try including a reset.css (check question31.txt) or a normalise.css (Google either one or reset vs normalise to see the differences) to remove those defaults.
+
+
+For Example , open the any sample html in different and you will see the appearance is different in different browsers.
+
+more on-
+http://meiert.com/en/blog/20070922/user-agent-style-sheets/
