@@ -27,7 +27,7 @@ Syllabus we will touch:
 - Node.js, npm, Gulp for the build and workflow process
 - CSS, LESS, Twitter Bootstrap
 - JavaScript, jQuery with CoffeeScript, Jasmine and JSHint
-- Backbone.js, Anngular.js, D3.js
+- Backbone.js, Angular.js, D3.js
 
 Task 05:
 - Search on interview questions for CSS and JavaScript, jQuery
@@ -46,3 +46,22 @@ Task 05:
 - Topic can be CSS, JavaScript, jQuery, or any keyword from our set of keywords
 - If you find a question related to any keyword which we have in our syllabus you can include that question.
 - We can have duplicate questions from multiple people that is ok.
+
+
+Suggestions, Questions, Difficulties
+
+- Abhishek - wwill the task be complete end to end projects? Yes
+- Khaled - Can knockout.js be included in this session, No, let us do that from next session 2
+- 
+
+
+
+
+
+
+
+
+
+
+
+
